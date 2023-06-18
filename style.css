@@ -6,7 +6,7 @@ body, html {
 
 body {
   margin: 0;
-  background-color: mistyrose;
+  background-color: rgb(26, 105, 129);
   position: relative;
   perspective: 800px;
   overflow: hidden;
