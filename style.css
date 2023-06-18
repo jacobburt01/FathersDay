@@ -104,7 +104,7 @@ body {
 
 .envelope .back .letter p:nth-child(3) {
   font-size: 30px;
-  color: white;
+  color: #FFFFFF;
   margin-top: 150px;
   float: right;
 }
