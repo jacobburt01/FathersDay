@@ -84,7 +84,7 @@ body {
   font-size: 30px;
   line-height: 20px;
   letter-spacing: 2px;
-  color: #ff969f;
+  color: #0d0198
 }
 
 .envelope .front .mail p:first-child {
@@ -104,7 +104,7 @@ body {
 
 .envelope .back .letter p:nth-child(3) {
   font-size: 30px;
-  color: #f57882;
+  color: white;
   margin-top: 150px;
   float: right;
 }
